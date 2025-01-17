@@ -1,0 +1,9 @@
+---
+title: "Understanding Statistical Distributions: Intuition and Real-World Insights"
+author: "Hrayr Muradyan"
+date: "2025-01-17"
+categories: [analysis, code, data science]
+image: "image.jpg"
+---
+
+This is a post with executable code.
