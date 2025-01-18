@@ -1,9 +1,9 @@
 ---
 title: "Understanding Normal Distribution: Intuition and Real-World Insights"
-subtitle: "Why focus on learning the concept for the purpose of passing the course when it can be more beneficial to understand how to apply it in real-world scenarios?"
+subtitle: "Why focus on learning the concept for the purpose of passing the course when it can be more beneficial to understand how it appears in real-world scenarios?"
 author: "Hrayr Muradyan"
 date: "2025-01-17"
-categories: [analysis, code, data science]
+categories: [statistics, normal distribution, data science]
 image: "image.jpg"
 execute:
   freeze: false
@@ -140,3 +140,19 @@ The key takeaway is that normal distribution isn’t just a theoretical concept 
 For those struggling to intuitively grasp the normal distribution, remember that it’s simply a way of describing how values spread around a central point. 
 Most values cluster near the mean, with fewer values appearing as you move farther away—just like how most students finish their homework within a certain time frame. 
 Recognizing this pattern in data makes it easier to predict outcomes, perform statistical tests, and make informed decisions.
+
+So, what next? To understand normal distributions deeper, it's important to explore their use cases in prediction, hypothesis testing, and inference. 
+In prediction, normal distributions help estimate the likelihood of future outcomes, such as the probability of a student finishing homework within a certain time frame.
+For hypothesis testing, the assumption of normality allows us to apply parametric tests, such as the t-test, to assess whether observed data significantly differs from a hypothesized value. 
+Additionally, normal distributions are essential in statistical inference, as they provide the base for constructing confidence intervals and making reliable conclusions about population parameters from sample data.
+
+### Additional Readings
+
+Here are some additional, interesting sources to read and gain better understanding of the material:
+
+- Lyon, A. (2013). Why are Normal Distributions Normal? The British Journal for the Philosophy of Science, 65(3), 621–649. https://doi.org/10.1093/bjps/axs046
+- Bryc, W. (1995). Normal distributions. In: The Normal Distribution. Lecture Notes in Statistics, vol 100. Springer, New York, NY. https://doi.org/10.1007/978-1-4612-2560-7_3
+
+### End
+
+Thank you for taking the time to read this blog! I hope it has provided you with a clearer understanding of the significance of normal distributions and how they appear in real-world scenarios.
