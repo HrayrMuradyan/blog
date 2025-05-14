@@ -4,16 +4,15 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@EasyAIForAll
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/hrayr-muradyan/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/HrayrMuradyan
 
 ---
-
-About this blog
+Welcome to my blog! I'm a data scientist, who loves to share his knowledge and talk about cool topics in machine learning, statistics, and math. You can follow me through the links below to stay updated!

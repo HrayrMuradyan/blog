@@ -3,14 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "Basic Statistical Distributions"
+  title: "Blog"
   navbar:
     right:
       - about.qmd
+      - icon: globe
+        href: https://hrayrmuradyan.github.io/personal-website/docs/index.html
+      - icon: youtube
+        href: https://www.youtube.com/@EasyAIForAll
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hrayr-muradyan/
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/HrayrMuradyan
 format:
   html:
     theme: cosmo

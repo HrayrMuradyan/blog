@@ -1,5 +1,5 @@
 ---
-title: "Basic Statistical Distributions"
+title: "Hrayr Muradyan's Blog"
 listing:
   contents: posts
   sort: "date desc"

@@ -1,1 +1,54 @@
 /* css styles */
+
+#quarto-header .nav-link, #quarto-header .aa-SubmitIcon, #quarto-header .navbar-title{
+    color: white;
+    fill: white;
+}
+
+#quarto-header .nav-link, 
+#quarto-header .aa-SubmitIcon, 
+#quarto-header .navbar-title {
+    color: white;
+    transition: color 0.3s ease;
+}
+
+#quarto-header .nav-link:hover, 
+#quarto-header .aa-SubmitIcon:hover, 
+#quarto-header .navbar-title:hover {
+    color: #79f0ec; 
+    fill: #79f0ec; 
+}
+
+
+#quarto-header .navbar,
+.quarto-title-banner,
+#title-block-header.quarto-title-block.default.page-columns{
+    background-color: #16162f;
+} 
+
+.quarto-title-banner{
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+    transform: translateY(-1%);
+}
+
+.quarto-title-banner .quarto-title .title {
+    color: white;
+
+}
+
+
+div.quarto-post .thumbnail {
+    flex-basis: 40%;
+}
+
+.quarto-title-banner .quarto-title p,
+.quarto-categories .quarto-category,
+.quarto-title-meta .quarto-title-meta-heading,
+.quarto-title-meta .quarto-title-meta-contents{
+    color: rgb(210, 210, 210);
+}
+
+#title-block-header{
+    padding-bottom: 1%;
+}
