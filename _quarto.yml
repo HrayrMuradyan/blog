@@ -8,7 +8,7 @@ website:
     right:
       - about.qmd
       - icon: globe
-        href: https://hrayrmuradyan.github.io/personal-website/docs/index.html
+        href: https://hrayrmuradyan.github.io/docs/index.html
       - icon: youtube
         href: https://www.youtube.com/@EasyAIForAll
       - icon: linkedin
